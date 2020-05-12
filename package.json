@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-goolyuyi-node",
   "description": "goolyuyi's eslint and seamless with happiness in jetbrain ide(such as webstorm)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": ".eslintrc.js",
   "license": "MIT",
   "devDependencies": {
