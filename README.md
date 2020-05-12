@@ -1,7 +1,12 @@
 # goolyuyi の Eslint :heart:
 goolyuyi's eslint and seamless in jetbrain IDE(such as webstorm)
 :lizard:
+# Installation
+```bash
+yarn add -D eslint eslint-config-goolyuyi-node eslint-plugin-import eslint-plugin-mocha eslint-plugin-node eslint-plugin-promise 
+```
 ## Useage
+add this to your `.eslint.rc`
 ```json
 {
     "extends": "myconfig/my-special-config"
